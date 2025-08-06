@@ -49,5 +49,11 @@ html {
   line-height: 1.6;
   color: #11111;
 }
+
+.site-title {
+  font-weight: normal;    /* or bold, 300, 400, 500, etc. */
+  font-size: 26px;
+  color: #424242;
+}
 </style>
 

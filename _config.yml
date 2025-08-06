@@ -7,9 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rishiraj-rpg.github.io" # the base hostname & protocol for your site
 
 # Your info
-twitter_username: yourusername
+# twitter_username: yourusername
 github_username: rishiraj-rpg
 linkedin_username: rishirajgirmal
+instagram_username: siberianrisky
 
 # Navigation (optional - for header menu)
 header_pages:
