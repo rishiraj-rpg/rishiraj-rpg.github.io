@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Stories
+permalink: /stories/
 ---
 
 <div class="home">
@@ -32,6 +32,10 @@ permalink: /blog/
 </div>
 
 <style>
+html {
+  overflow-y: scroll;
+}
+
   .post-list .excerpt {
   margin-top: -10px;
   margin-bottom: 20px;
