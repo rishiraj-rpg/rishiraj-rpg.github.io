@@ -17,7 +17,8 @@ title: ""
 <body>
     <img src="photos/my_profile_photo.png" alt="Your Photo" class="profile-pic" />
 <div class="index-content">
-I’m a Master of Science in Computer Science (MSCS) student at <a href="https://www.cics.umass.edu/">UMass Amherst</a>, graduating in 2027. In my first semester, I’m taking <i>Machine Learning</i> with Prof. <a href="https://www.cics.umass.edu/">Benjamin Marlin</a>, along with two PhD‑level courses - <i>Trustworthy and Responsible AI</i> with Prof. <a href="https://www.cics.umass.edu/">Eugene Bagdasarian</a>, and <i>Research Methods/Empirical CS</i> with Prof. <a href="https://www.cics.umass.edu/">David Jensen</a>. 
+I’m a Master of Science in Computer Science (MSCS) student at <a href="https://www.cics.umass.edu/">UMass Amherst</a>, graduating in 2027. In my first semester, I’m taking two PhD‑level courses - <i>Trustworthy and Responsible AI</i> with Prof. <a href="https://people.cs.umass.edu/~eugene/">Eugene Bagdasarian</a>, and <i>Advanced Natural Language Processing</i> with Prof. <a href="https://www.cics.umass.edu/about/directory/brendan-oconnor">Brendan O'Connor
+</a> along with <i>Systems for Data Science</i>(masters level) with Prof. <a href="https://www.cics.umass.edu/about/directory/peter-klemperer">Peter Klemperer</a>.
 <p>
 </p>
 Before UMass, I worked as a Software Developer II at  <a href="https://home.barclays/">Barclays Bank PLC</a>, building a financial operating reporting tool for internal business users, where I primarily used PL/SQL, Python, Autosys, and UNIX to generate business‑critical reports. 

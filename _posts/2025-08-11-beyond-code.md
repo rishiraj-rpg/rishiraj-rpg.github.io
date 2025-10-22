@@ -10,7 +10,7 @@ categories: jekyll update
 
 The day was packed with orientations --- Barclays’ [RISES][RISES] values --- followed by interaction with the leads and exploring the Pune campus. For the first 15 days, Hyatt Regency was home, which meant independence, casual strolls, and boy, who could forget those relaxing jacuzzi evenings 🛀☺️.
 
-The first couple of months were a flurry of KT sessions and hands-on training in PL/SQL, UNIX, and Autosys. I still remember a senior walking us through a *massive* SQL query, my eyes widened before I realized it had *“just”* 150 table-columns. Simulataneously, I also contributed to a poc for anomaly detection using time series analysis.  
+The first couple of months were a flurry of KT sessions and hands-on training in PL/SQL, UNIX, and Autosys. I still remember a senior walking us through a *massive* SQL query, my eyes widened before I realized it had *“just”* 150 table-columns. Simultaneously, I also contributed to a poc for anomaly detection using time series analysis.  
 
 Then came the real game. From designing rerunnable scripts and optimizing workflows in `AE Tool Decommissioning`, developing PL/SQL packages for `Analytical Review`, and buidling python pipelines for FX rate ingestion in `Liro FX Rates`, I had the chance to solve varied technical challenges across teams and domains. 
 
